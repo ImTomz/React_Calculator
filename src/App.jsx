@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Button from "./components/Button";
-import "./app.css";
+import "./App.css";
 import Input from "./components/Input";
 import ClearBtn from "./components/ClearBtn";
 import * as math from "mathjs";
